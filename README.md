@@ -20,8 +20,6 @@
 	
 </div>
 
-![](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=%&fontSize=90)
-
 
 <!--
 **dlqhdwo1/dlqhdwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
