@@ -8,6 +8,7 @@
 	<img src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=SQL&logoColor=white" /> <br>
 	<img src="https://img.shields.io/badge/Python-40AEF0?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=Linux&logoColor=white" />
 </div>
 
 <!--
