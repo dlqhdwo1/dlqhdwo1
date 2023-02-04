@@ -1,5 +1,5 @@
 ### 안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=150&section=header&text=안녕하세요&fontSize=20)
+
 
 
 <div align="center">
@@ -16,8 +16,10 @@
 	<img src="https://img.shields.io/badge/Ubuntu-004088?style=flat&logo=Ubuntu&logoColor=white" />
 	<img src="https://img.shields.io/badge/Arduino-EF2D5E?style=flat&logo=Ubuntu&logoColor=white" />
 	
-	
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **dlqhdwo1/dlqhdwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
