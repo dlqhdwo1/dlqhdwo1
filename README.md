@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 백앤드를 목표로 공부하고있습니다. 👋
 
 <!--
 **dlqhdwo1/dlqhdwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
