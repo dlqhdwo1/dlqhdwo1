@@ -1,5 +1,7 @@
 ### 안녕하세요 백앤드개발자를 목표로 공부하고있습니다. 👋
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
 <!--
 **dlqhdwo1/dlqhdwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
