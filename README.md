@@ -1,6 +1,6 @@
 ### 안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align="center">
 	<h2>⚡My Skills⚡</h2>
@@ -18,7 +18,6 @@
 	
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dlqhdwo1&theme=nord)](https://github.com/dlqhdwo1/github-readme-activity-graph)
 
 
 <!--
