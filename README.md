@@ -1,4 +1,7 @@
 ### 안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.
+![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=150&section=header&text=안녕하세요&fontSize=20)
+
+
 <div align="center">
 	<h2>⚡My Skills⚡</h2>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
