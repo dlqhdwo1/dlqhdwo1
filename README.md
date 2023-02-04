@@ -9,6 +9,11 @@
 	<img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=SQL&logoColor=white" /> <br>
 	<img src="https://img.shields.io/badge/Python-40AEF0?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Ubuntu-004088?style=flat&logo=Ubuntu&logoColor=white" />
+	<img src="https://img.shields.io/badge/Arduino-EF2D5E?style=flat&logo=Ubuntu&logoColor=white" />
+	
+	
 </div>
 
 <!--
