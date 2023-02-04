@@ -1,11 +1,15 @@
 ### 안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.
+<html lang="ko">
 
+<head>
 <style>
 	h1{text-align:center;}
 	
 	
 </style>
-
+</head>
+	
+	<body>
 <h1>text-align skills </h1>
 
 <div align="center">
@@ -13,7 +17,8 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-
+</body>
+	</html>
 
 <!--
 **dlqhdwo1/dlqhdwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
