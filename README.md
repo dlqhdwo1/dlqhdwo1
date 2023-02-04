@@ -6,6 +6,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=SQL&logoColor=white" />
 </div>
 
 <!--
