@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Im%20JungGue&fontSize=90)
 
-                                       ### 😄안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.😄
+                                           😄안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.😄
 
 <div align="center">
 	<h2>⚡My Skills⚡</h2>
