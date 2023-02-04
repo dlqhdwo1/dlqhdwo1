@@ -1,7 +1,12 @@
-### 안녕하세요 백앤드개발자를 목표로 공부하고있습니다. 
+### 안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.
 
-					My Skills
+<style>
+	h1{text-align:center;}
+	
+	
+</style>
 
+<h1>text-align skills </h1>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
