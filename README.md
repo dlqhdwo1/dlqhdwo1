@@ -2,9 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=%20Welcome&fontSize=90)
 
-                                       😄안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.😄 
+                                      
 
 <div align="center">
+	 😄안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.😄 
 	<h2>⚡My Skills⚡</h2>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
