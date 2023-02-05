@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=%20Welcome&fontSize=90)
 
-                                           😄안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.😄
+                                        <h1 align="center">   😄안녕하세요 백앤드개발자를 목표로 공부하고 있습니다.😄  </h1>
 
 <div align="center">
 	<h2>⚡My Skills⚡</h2>
