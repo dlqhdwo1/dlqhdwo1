@@ -20,11 +20,14 @@
 	
 </div>
 
+<hr/>
+<div align="center">
 Portpolio
 
 2023.06.05 ~ 2023.06.30 <br>
 <a href="https://www.canva.com/design/DAFlqRNOHns/Vfh2agL7aMnATAE47xbCOA/edit">중고거래 플랫폼 비트마켓</a>
 
+</div>
 <!--
 **dlqhdwo1/dlqhdwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
