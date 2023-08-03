@@ -23,9 +23,8 @@
 <hr/>
 <div align="center">
 📓 Portpolio
-
-2023.06.05 ~ 2023.06.30 <br>
 <a href="https://www.canva.com/design/DAFlqRNOHns/Vfh2agL7aMnATAE47xbCOA/edit">중고거래 플랫폼 비트마켓</a>
+<br>
 <a href="https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view">기부,펀딩 플랫폼 한걸음</a>
 </div>
 <!--
